@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDf88L3SZ4/xMcoAVrF5ykyJuYF0uq/8VwuDAfP7TiO1/SoO8oGe/Z8q9BRxwNroH5hty9/5TuQjEeqmi0H8Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Osman Jimenez\\Documents\\GitHub\\WepApi\\ApiWeather\\ApiWeather\\ApiWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Osman Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
