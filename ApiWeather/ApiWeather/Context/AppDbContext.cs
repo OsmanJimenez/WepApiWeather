@@ -14,6 +14,7 @@ namespace ApiWeather.Context
 
         }
 
-        public DbSet<ViewNews> News;
+        public DbSet<ViewNews> News { get; set; }
+        public DbSet<ViewWeather> Weather { get; set; }
     }
 }

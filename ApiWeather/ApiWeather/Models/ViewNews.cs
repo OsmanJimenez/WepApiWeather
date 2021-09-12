@@ -17,6 +17,7 @@ namespace ApiWeather.Models
         public String Url_To_Image { get; set; }
         public DateTime Published_At { get; set; }
         public String Content { get; set; }
+        [Required]
         public int City_id { get; set; }
     }
 }
