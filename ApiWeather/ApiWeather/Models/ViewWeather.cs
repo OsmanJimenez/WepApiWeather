@@ -22,6 +22,8 @@ namespace ApiWeather.Models
         public int Cloudcover { get; set; }
         public int Feelslike { get; set; }
         public int Uv_Index { get; set; }
+
+        public String City_name { get; set; }
         [Required]
         public int City_id { get; set; }
     }
